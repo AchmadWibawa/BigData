@@ -21,7 +21,8 @@ Kelas: TI-3B.
 <img src="./img/3.PNG" height="400" alt="Screenshot 3"/>
 
 4. SystemCommandsOutput.scala
-|<img src="./img/4.PNG" height="400" alt="Screenshot 4"/> <img src="./img/4.1.PNG" height="400" alt="Screenshot 4.1"/>|
+<img src="./img/4.PNG" height="400" alt="Screenshot 4"/> 
+<img src="./img/4.1.PNG" height="400" alt="Screenshot 4.1"/>
 
 5. SystemCommandsReturnCode.scala
 <img src="./img/5.PNG" height="400" alt="Screenshot 5"/>
